@@ -7,6 +7,6 @@ Here you can find several projects about technologies and topics that I like:
 - Cloud :cloud:
 - DevOps and MLOps :repeat: :heavy_check_mark: :warning: :x:
 - Sport :soccer: :bicyclist: :running_woman:
-- Languages :netherlands: :it:
+- Languages :netherlands: 🇮🇹
 - Food :woman_cook: :pizza: :fries: :cherries: :cake: :coffee:
 - Learning and Educational Material :memo: :game_die: :dart: :girl: :boy:
