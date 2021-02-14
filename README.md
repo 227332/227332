@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there :wave:
 
-<!--
-**227332/227332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub!
+Here you can find several projects about technologies and topics that I like:
+- Software engineering :snake: :bug:
+- AI, ML, NLP and CV :robot: :book: :camera:
+- Cloud :cloud:
+- DevOps and MLOps :repeat: :heavy_check_mark: :warning: :x:
+- Sport :soccer: :bicyclist: :running_woman:
+- Languages :netherlands: :it:
+- Food :woman_cook: :pizza: :fries: :cherries: :cake: :coffee:
+- Learning and Educational Material :memo: :game_die: :dart: :girl: :boy:
