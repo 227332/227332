@@ -1,7 +1,7 @@
 ### Hi there :wave:
 
 Welcome to my GitHub!
-Here you can find several projects about technologies and topics that I like:
+Here you can find several projects on technologies and topics that I like:
 - Software engineering :snake: :bug:
 - AI, ML, NLP and CV :robot: :book: :camera:
 - Cloud :cloud:
